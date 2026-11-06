@@ -1,0 +1,110 @@
+{
+  "pins": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    7
+  ],
+  "limits": [
+    [
+      -90.0,
+      90.0
+    ],
+    [
+      -60.0,
+      90.0
+    ],
+    [
+      -90.0,
+      90.0
+    ],
+    [
+      -90.0,
+      90.0
+    ],
+    [
+      -90.0,
+      90.0
+    ],
+    [
+      -90.0,
+      90.0
+    ]
+  ],
+  "tracking": [
+    {
+      "camera": "overhead",
+      "parent": 0,
+      "child": 5,
+      "invert": false,
+      "offset": 0.0,
+      "offset_overhead": 0.0,
+      "offset_side": 0.0,
+      "offset_left": 0.0,
+      "offset_right": 0.0
+    },
+    {
+      "camera": "side",
+      "parent": 0,
+      "child": 1,
+      "invert": false,
+      "offset": 6.064768097111056,
+      "offset_overhead": 0.0,
+      "offset_side": 6.064768097111056,
+      "offset_left": 0.0,
+      "offset_right": 6.064768097111056
+    },
+    {
+      "camera": "side",
+      "parent": 1,
+      "child": 2,
+      "invert": false,
+      "offset": 74.41669849142193,
+      "offset_overhead": 0.0,
+      "offset_side": 74.41669849142193,
+      "offset_left": 0.0,
+      "offset_right": 74.41669849142193
+    },
+    {
+      "camera": "side",
+      "parent": 2,
+      "child": 3,
+      "invert": false,
+      "offset": 27.59295193717162,
+      "offset_overhead": 0.0,
+      "offset_side": 27.59295193717162,
+      "offset_left": 0.0,
+      "offset_right": 27.59295193717162
+    },
+    {
+      "camera": "side",
+      "parent": null,
+      "child": null,
+      "invert": false,
+      "offset": 0.0,
+      "offset_overhead": 0.0,
+      "offset_side": 0.0,
+      "offset_left": 0.0,
+      "offset_right": 0.0
+    },
+    {
+      "camera": "side",
+      "parent": null,
+      "child": null,
+      "invert": false,
+      "offset": 0.0,
+      "offset_overhead": 0.0,
+      "offset_side": 0.0,
+      "offset_left": 0.0,
+      "offset_right": 0.0
+    }
+  ],
+  "camera_index": 0,
+  "margin": 4.0,
+  "limits_on": true,
+  "speed": 45,
+  "pos_on": true
+}
